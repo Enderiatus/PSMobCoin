@@ -1,0 +1,8 @@
+name: PSMobCoin
+author: Enderiatus
+version: 0.5
+main: me.Enderiatus.MobCoin.Main
+
+commands:
+  mobcoin:
+    description: PSMobCoin ana komutudur.

@@ -1,0 +1,102 @@
+Items:
+  20:
+    Item: TRIPWIRE_HOOK
+    Name: '§f§l1x §2§lKutu §a§lAnahtarı §2┃ §a§lOylama'
+    Lore:
+      - ''
+      - '§6§l*§e§l ÜCRET: §7☀440'
+      - ''
+    Commands:
+      - 'cc give virtual Vote 1 %player%'
+    Price: 440
+  21:
+    Item: TRIPWIRE_HOOK
+    Name: '§f§l1x §9§lKutu §b§lAnahtarı §9┃ §b§lNadir'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀2200'
+      - ''
+    Commands:
+      - 'cc give virtual Rare 1 %player%'
+    Price: 2200
+  22:
+    Item: TRIPWIRE_HOOK
+    Name: '§f§l1x §4§lKutu §c§lAnahtarı §4┃ §c§lUltra'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀2650'
+      - ''
+    Commands:
+      - 'cc give virtual Ultra 1 %player%'
+    Price: 2650
+  23:
+    Item: TRIPWIRE_HOOK
+    Name: '§f§l1x §d§lKutu §5§lAnahtarı §5┃ §d§lDestansı'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀2950'
+      - ''
+    Commands:
+      - 'cc give virtual Epic 1 %player%'
+    Price: 2950
+  24:
+    Item: TRIPWIRE_HOOK
+    Name: '§f§l1x §6§lKutu §e§lAnahtarı §6┃ §e§lRank'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀9500'
+      - ''
+    Commands:
+      - 'cc give virtual Rank 1 %player%'
+    Price: 9500
+  29:
+    Item: PRISMARINE_SHARD
+    Name: '§f§l1x §7┃ §b§lVIP Rank'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀8300'
+      - ''
+    Commands:
+      - 'cc give virtual Veteran 1 %player%'
+    Price: 8300
+  30:
+    Item: PRISMARINE_SHARD
+    Name: '§f§l1x §7┃ §9§lTitan Rank'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀8600'
+      - ''
+    Commands:
+      - 'cc give virtual Titan 1 %player%'
+    Price: 8600
+  31:
+    Item: PRISMARINE_SHARD
+    Name: '§f§l1x §7┃ §c§lEfsane Rank'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀9900'
+      - ''
+    Commands:
+      - 'cc give virtual Epic 1 %player%'
+    Price: 9900
+  32:
+    Item: PRISMARINE_SHARD
+    Name: '§f§l1x §7┃ §d§lŞampiyon Rank'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀11000'
+      - ''
+    Commands:
+      - 'cc give virtual Champion 1 %player%'
+    Price: 11000
+  33:
+    Item: FEATHER
+    Name: '§f§l1x §2┃ §a§lFly Yetkisi'
+    Lore:
+      - ''
+      - ' §6§l*§e§l ÜCRET: §7☀6700'
+      - ''
+    Commands:
+      - 'vouchers give %player% Fly 1'
+    Price: 6700
+  
